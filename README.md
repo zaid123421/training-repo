@@ -1,2 +1,2 @@
 # trainig-repo
-i creat this repo for training
+### i creat this repo for training
